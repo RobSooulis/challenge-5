@@ -23,3 +23,5 @@ THEN the password is either displayed in an alert or written to the page
 ```
 here is the link for so you may try the website yourself: 
 https://robsooulis.github.io/challenge-5/
+
+![Password Generat](https://user-images.githubusercontent.com/85200166/137419310-a45f6a92-09be-41ca-977a-df7fe13c376b.png)
